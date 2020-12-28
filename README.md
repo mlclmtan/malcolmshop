@@ -2,7 +2,7 @@
 
 > 使用MERN 和 Redux建立的電子商務平台
 
-**[Demo 點我](https://www.malshop.mlclmtan.ga)**
+**[Demo 點我](https://malshop.mlclmtan.ga/)**
 
 ![screenshot](https://github.com/mlclmtan/malcolmshop/blob/master/uploads/1.png)
 
